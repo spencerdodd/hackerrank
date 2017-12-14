@@ -57,4 +57,13 @@ Now, let's compare each individual score:
 
 * a2 < b2, so Bob receives 1 point
 
-Alice's comparison score is 1, and Bob's comparison score is 1. Thus, we print 1 1 (Alice's comparison score followed by Bob's comparison score) on a single line. 
+Alice's comparison score is 1, and Bob's comparison score is 1. Thus, we print 1 1 (Alice's comparison score followed by Bob's comparison score) on a single line.
+
+### solution
+
+```
+./02
+1 2 3
+0 2 4
+1 1
+```

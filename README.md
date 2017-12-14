@@ -4,10 +4,10 @@ code for hackerrank challenges.
 
 ### go
 
-A useful little aliases:
+useful aliases:
 
 ```
-alias goch="export GOPATH=$(pwd)"
+alias gc="export GOPATH=$(pwd)"
 alias gb="go build"
 ```
 
