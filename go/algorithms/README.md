@@ -2,10 +2,11 @@
 
 These solutions use `go`
 
-A useful little alias (in .zshrc):
+useful aliases (in .zshrc):
 
 ```
-alias goch="export GOPATH=$(pwd)"
+alias gc="export GOPATH=$(pwd)"
+alias gb="go build"
 ```
 
 ### checking go install/config
