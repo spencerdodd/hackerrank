@@ -37,4 +37,15 @@ You must print the following 3 lines:
 ### Explanation
 
 There are 3 positive numbers, 2 negative numbers, and 1 zero in the array.
-The respective fractions of positive numbers, negative numbers and zeroes are 3/6=0.500000, 2/6=0.333333 and 1/6=0.166667, respectively. 
+The respective fractions of positive numbers, negative numbers and zeroes are 3/6=0.500000, 2/6=0.333333 and 1/6=0.166667, respectively.
+
+### solution
+
+```
+./05
+3
+2 -1 0 
+0.3333333333333333
+0.3333333333333333
+0.3333333333333333
+```
