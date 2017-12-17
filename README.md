@@ -7,13 +7,5 @@ code for hackerrank challenges. using this project as a way to learn new languag
 *progress*
 
 ```
-warmup: 4/10
+warmup: 5/10
 ```
-
-useful aliases:
-
-```
-alias gc="export GOPATH=$(pwd)"
-alias gb="go build"
-```
-
