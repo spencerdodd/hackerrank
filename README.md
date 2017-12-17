@@ -6,6 +6,4 @@ code for hackerrank challenges. using this project as a way to learn new languag
 
 *progress*
 
-```
-warmup: 5/10
-```
+warmup: [warmup-prog](http://progressed.io/bar/50)
