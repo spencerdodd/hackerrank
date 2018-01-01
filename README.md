@@ -2,4 +2,6 @@
 
 ### `go` progress
 
-warmup: ![warmup-prog](http://progressed.io/bar/100)
+*`algorithms`*
+
+* warmup: ![warmup-prog](http://progressed.io/bar/100)
